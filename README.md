@@ -7,4 +7,4 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soyeon.ssafy@gmail.com)](mailto:soyeon.ssafy@gmail.com)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlthdus813)](https://solved.ac/{dlthdus813})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlthdus813)](https://solved.ac/dlthdus813)
