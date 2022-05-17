@@ -1,10 +1,28 @@
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=200&section=header&text=yaini%20Lee&fontColor=fcba03&fontSize=90&fontAlign=62&fontAlignY=32&desc=BackEnd_Dev&descSize=25&descAlign=85&descAlignY=50)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Yaini</h1>
-<h3 align="center">JAVA BackEnd Developer</h3>
+<h3 align="center">🛠 Teck Stack 🛠</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Spring-white?style=flat&logo=Spring&logoColor=#3776AB"/></a>&nbsp
+  <img src="https://img.shields.io/badge/MySQL-7F52FF?style=flat&logo=MySQL&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Gradle-00ADD8?style=flat&logo=Gradle&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Spring Security-A8B9CC?style=flat&logo=Spring Security&logoColor=white"/></a>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Amazon AWS-3DDC84?style=flat&logo=Amazon AWS&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Kubernetes-F24E1E?style=flat&logo=Kubernetes&logoColor=white"/></a>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></a>
+</p>
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyaini&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=total&edge_flat=true)](https://hits.seeyoufarm.com)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soyeon.ssafy@gmail.com)](mailto:soyeon.ssafy@gmail.com)
+<h3 align="center"> 🎳 About Me 🎳 </h3>
+<p align="center">
+  <a href="ssafy.soyeon@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=read&link=ssafy.soyeon@gmail.com"/></a>&nbsp
+</p>
+<br>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlthdus813)](https://solved.ac/dlthdus813)
+</div>
