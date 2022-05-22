@@ -19,7 +19,7 @@
 </p>
 
 
-<h3 align="center"> 🎳 About Me 🎳 </h3>
+<h3 align="center"> 🎳 Contact Me 🎳 </h3>
 <p align="center">
   <a href="ssafy.soyeon@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=read&link=ssafy.soyeon@gmail.com"/></a>&nbsp
 </p>
